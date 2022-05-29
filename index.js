@@ -59,7 +59,7 @@ const secondUser = {
             city: "Tangerang"            
         }
 ],
-    favoriteRestaurant: Array.from(favoriteColor2)
+    favoriteRestaurant: Array.from(favoriteRestaurant2)
 
 };
 
